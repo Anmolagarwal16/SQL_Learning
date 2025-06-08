@@ -1,3 +1,3 @@
 ## Beginner Level
 
-- [Introduction to SQL](./Beginner-Level/Introduction-to-SQL.md)
+- [Introduction to SQL](./Introduction-to-SQL.md)
